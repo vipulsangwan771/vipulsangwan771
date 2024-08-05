@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm vipul</h1>
+<h1 align="center">Hi 👋, I'm Vipul</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipulsangwan771&label=Profile%20views&color=0e75b6&style=flat" alt="vipulsangwan771" /> </p>
@@ -7,7 +7,9 @@
 
 - 🌱 I’m currently learning **Node.js, mongodb**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:
+<p>vipulsangwan771@gmail.com</p>
+</h3>
 <p align="left">
 </p>
 
