@@ -1,25 +1,26 @@
 <h1 align="center">Hi 👋, I'm Vipul</h1>
 <h3 align="center">
-  <strong>⚡ A Passionate Web Developer from India 🚀</strong><br/>
-  <em>Crafting Creative Digital Experiences 💻✨</em>
+  <strong>⚡ Passionate Web Developer from India 🚀</strong><br/>
+  <em>Crafting Engaging & Scalable Digital Experiences 💻✨</em>
 </h3>
 
-
+<!-- Profile Views Badge -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vipulsangwan771&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=vipulsangwan771&label=PROFILE+VIEWS&color=brightgreen&style=for-the-badge" alt="Profile Views" />
 </p>
 
-
+<!-- GitHub Trophies with modern style -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=vipulsangwan771&theme=gruvbox&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=vipulsangwan771&theme=onedark&row=1&column=6&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
   </a>
 </p>
 
-
+<!-- Professional Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=1000&color=0052CC&center=true&vCenter=true&width=850&lines=Full-Stack+Web+Developer;Specialized+in+React+and+Node.js;Experienced+in+Payment+Integration+(Stripe);Building+Scalable+and+Secure+Web+Applications;Focused+on+UI%2FUX+and+Performance+Optimization" alt="Professional Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3A6AFF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+%7C+React+%26+Node.js+Specialist;Expert+in+Payment+Integration+(Stripe);Building+Scalable+%26+Secure+Web+Applications;Focused+on+UI%2FUX%2C+Performance%2C+%26+Innovation" alt="Typing Animation" />
 </p>
+
 
 
 
