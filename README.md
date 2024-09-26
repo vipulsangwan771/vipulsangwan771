@@ -2,14 +2,19 @@
 <h3 align="center">A Passionate Web Developer from India 🚀, Crafting Creative Digital Experiences</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vipulsangwan771&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=vipulsangwan771&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=vipulsangwan771&theme=gruvbox&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=vipulsangwan771&theme=algolia&no-frame=true&no-bg=true&margin-w=20&margin-h=15" alt="GitHub Trophies" />
   </a>
 </p>
+
+<p align="center">
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&duration=4000&color=0e75b6&background=FFFFFF00&center=true&vCenter=true&lines=Web+Developer+%7C+React+Enthusiast;Building+Amazing+Web+Experiences;Lifelong+Learner+%7C+Tech+Lover" alt="Typing SVG" />
+</p>
+
 
 
 <h2 align="center">👨‍💻 About Me</h2>
