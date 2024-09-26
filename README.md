@@ -4,9 +4,7 @@
   <em>Crafting Creative Digital Experiences 💻✨</em>
 </h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=26&duration=4000&color=0e75b6&background=FFFFFF00&center=true&vCenter=true&lines=React+Developer;Payment+Integration+Specialist;Node.js+Expert;Building+Innovative+Web+Applications;Focused+on+User+Experience+and+Performance" alt="Typing Animation" />
-</p>
+
 
 
 <p align="center">
