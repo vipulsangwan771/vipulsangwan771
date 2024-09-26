@@ -5,7 +5,9 @@
 </h3>
 
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vipulsangwan771&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vipulsangwan771&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views" />
