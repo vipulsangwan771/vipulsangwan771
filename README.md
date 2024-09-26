@@ -35,7 +35,7 @@
 <ul>
   <li>🔭 Currently focused on delivering comprehensive full-stack web solutions utilizing <strong>React</strong>, <strong>Node.js</strong>, and <strong>MongoDB</strong> to address real-world challenges across various domains.</li>
   <li>🌱 Diving deep into <strong>backend development</strong>, honing my skills in <strong>Node.js</strong> to architect scalable and efficient systems.</li>
-  <li>💬 **Let’s Discuss**: Crafting dynamic web applications, implementing **Stripe** for seamless payment integrations, optimizing performance, or enhancing user experience across platforms.</li>
+  <li>💬 **Let’s Discuss**: Crafting dynamic web applications, implementing **Stripe** and other for seamless payment integrations, optimizing performance, or enhancing user experience across platforms.</li>
   <li>⚡ **Why Choose Me?** I am committed to writing **clean**, maintainable code and adopting a **user-centric approach**, ensuring that every project not only meets but exceeds expectations.</li>
 </ul>
 
