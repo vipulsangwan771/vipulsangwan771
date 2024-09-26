@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vipul</h1>
-<h3 align="center">A Passionate Web Developer from India 🚀, Crafting Creative Digital Experiences</h3>
+<h3 align="center">
+  <strong>⚡ A Passionate Web Developer from India 🚀</strong><br/>
+  <em>Crafting Creative Digital Experiences 💻✨</em>
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=26&duration=4000&color=0e75b6&background=FFFFFF00&center=true&vCenter=true&lines=React+Developer;Payment+Integration+Specialist;Node.js+Expert;Building+Innovative+Web+Applications;Focused+on+User+Experience+and+Performance" alt="Typing Animation" />
+</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vipulsangwan771&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views" />
