@@ -29,14 +29,14 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-  I’m <strong>Vipul</strong>, a passionate web developer dedicated to merging creativity with technology to build **interactive**, **responsive**, and **performance-optimized web applications**. My journey in tech is driven by a relentless curiosity to **innovate** and redefine the possibilities of **modern web development**.
+  I’m <strong>Vipul</strong>, a passionate web developer dedicated to merging creativity with technology to build <strong>interactive</strong>, <strong>responsive</strong>, and <strong>performance-optimized web applications</strong>. My journey in tech is driven by a relentless curiosity to <strong>innovate</strong> and redefine the possibilities of <strong>modern web development</strong>.
 </p>
 
 <ul>
   <li>🔭 Currently focused on delivering comprehensive full-stack web solutions utilizing <strong>React</strong>, <strong>Node.js</strong>, and <strong>MongoDB</strong> to address real-world challenges across various domains.</li>
   <li>🌱 Diving deep into <strong>backend development</strong>, honing my skills in <strong>Node.js</strong> to architect scalable and efficient systems.</li>
-  <li>💬 **Let’s Discuss**: Crafting dynamic web applications, implementing **Stripe** and other for seamless payment integrations, optimizing performance, or enhancing user experience across platforms.</li>
-  <li>⚡ **Why Choose Me?** I am committed to writing **clean**, maintainable code and adopting a **user-centric approach**, ensuring that every project not only meets but exceeds expectations.</li>
+  <li>💬 <strong>Let’s Discuss</strong>: Crafting dynamic web applications, implementing <strong>Stripe</strong> and other for seamless payment integrations, optimizing performance, or enhancing user experience across platforms.</li>
+  <li>⚡ <strong>Why Choose Me?</strong> I am committed to writing <strong>clean</strong>, maintainable code and adopting a  <strong>user-centric approach</strong>, ensuring that every project not only meets but exceeds expectations.</li>
 </ul>
 
 ---
