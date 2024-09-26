@@ -28,12 +28,16 @@
 
 <h2 align="center">👨‍💻 About Me</h2>
 
-I’m **Vipul**, a driven web developer with a love for blending creativity and logic to develop interactive, performance-optimized web applications. My journey in tech has been fueled by a curiosity to **innovate** and push the limits of **modern web development**.
+<p align="center">
+  I’m <strong>Vipul</strong>, a passionate web developer dedicated to merging creativity with technology to build **interactive**, **responsive**, and **performance-optimized web applications**. My journey in tech is driven by a relentless curiosity to **innovate** and redefine the possibilities of **modern web development**.
+</p>
 
-- 🔭 Currently crafting full-stack web solutions with **React**, **Node.js**, and **MongoDB** to solve real-world problems.
-- 🌱 Exploring the depths of **backend development**, striving to master **Node.js** for creating scalable systems.
-- 💬 **Let’s Talk About**: Developing robust e-commerce systems, implementing **Stripe** for seamless payment integration, or enhancing your web presence.
-- ⚡ **Why Me?** I bring a passion for **clean code**, performance, and a user-first approach that ensures your project stands out.
+<ul>
+  <li>🔭 Currently focused on delivering comprehensive full-stack web solutions utilizing <strong>React</strong>, <strong>Node.js</strong>, and <strong>MongoDB</strong> to address real-world challenges across various domains.</li>
+  <li>🌱 Diving deep into <strong>backend development</strong>, honing my skills in <strong>Node.js</strong> to architect scalable and efficient systems.</li>
+  <li>💬 **Let’s Discuss**: Crafting dynamic web applications, implementing **Stripe** for seamless payment integrations, optimizing performance, or enhancing user experience across platforms.</li>
+  <li>⚡ **Why Choose Me?** I am committed to writing **clean**, maintainable code and adopting a **user-centric approach**, ensuring that every project not only meets but exceeds expectations.</li>
+</ul>
 
 ---
 
