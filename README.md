@@ -11,13 +11,11 @@
   <img src="https://komarev.com/ghpvc/?username=vipulsangwan771&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=1000&color=0052CC&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer;Specialized+in+React+and+Node.js;Experienced+in+Payment+Integration+(Stripe);Building+Scalable+and+Secure+Web+Applications;Focused+on+UI%2FUX+and+Performance+Optimization" alt="Professional Typing Animation" />
-</p>
+
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=1000&color=0052CC&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer;Specialized+in+React+and+Node.js;Experienced+in+Payment+Integration+(Stripe);Building+Scalable+and+Secure+Web+Applications;Focused+on+UI%2FUX+and+Performance+Optimization" alt="Professional Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=1000&color=0052CC&center=true&vCenter=true&width=850&lines=Full-Stack+Web+Developer;Specialized+in+React+and+Node.js;Experienced+in+Payment+Integration+(Stripe);Building+Scalable+and+Secure+Web+Applications;Focused+on+UI%2FUX+and+Performance+Optimization" alt="Professional Typing Animation" />
 </p>
 
 
