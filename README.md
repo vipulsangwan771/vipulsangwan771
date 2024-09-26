@@ -18,8 +18,9 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&duration=4000&color=0e75b6&background=FFFFFF00&center=true&vCenter=true&lines=Web+Developer+%7C+React+Enthusiast;Building+Amazing+Web+Experiences;Lifelong+Learner+%7C+Tech+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=28&duration=3500&color=0e75b6&background=FFFFFF00&center=true&vCenter=true&width=650&lines=Experienced+Web+Developer;Expert+in+React+%26+JavaScript;Delivering+Seamless+User+Experiences;Focused+on+Innovation+and+Quality" alt="Professional Typing Animation" />
 </p>
+
 
 
 
