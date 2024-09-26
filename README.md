@@ -28,7 +28,7 @@
 
 <h2 align="center">👨‍💻 About Me</h2>
 
-<p align="center">
+<p>
   I’m <strong>Vipul</strong>, a passionate web developer dedicated to merging creativity with technology to build <strong>interactive</strong>, <strong>responsive</strong>, and <strong>performance-optimized web applications</strong>. My journey in tech is driven by a relentless curiosity to <strong>innovate</strong> and redefine the possibilities of <strong>modern web development</strong>.
 </p>
 
