@@ -46,7 +46,7 @@
 ### 💼 **E-commerce Platform with Stripe Integration**
 - Built a full-fledged e-commerce application that allows users to explore products, manage their carts, and perform secure transactions via **Stripe**.
 - **Key Highlights**:
-  - Dynamic cart management with live updates on product quantities.
+  - Dynamic cart management with live updates on product quantities, price etc.
   - Full integration with **Stripe API** for secure and fast payment processing.
   - Responsive UI powered by **React** and styled with **Bootstrap**, delivering a seamless shopping experience across all devices.
 
@@ -100,7 +100,7 @@
   <a href="mailto:vipulsangwan771@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Gmail" width="40" height="40"/>
   </a>
-  <a href="https://linkedin.com/in/vipul-sangwan" target="_blank">
+  <a href="https://www.linkedin.com/feed/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://github.com/vipulsangwan771" target="_blank">
