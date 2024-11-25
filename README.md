@@ -64,8 +64,8 @@ I specialize in creating modern, responsive, and dynamic web applications using 
     <img src="https://img.icons8.com/color/48/000000/stripe.png" alt="Stripe" width="40" height="40"/>
   </a>
 </p>
----
 
+---
 <h2 align="center">📫 Connect with Me</h2>
 
 <p align="center">
