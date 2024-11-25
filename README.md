@@ -1,8 +1,18 @@
-<h1 align="center">Hi 👋, I'm Vipul</h1>
-<h3 align="center">
-  <strong>⚡ Passionate Web Developer from India 🚀</strong><br/>
-  <em>Crafting Engaging & Scalable Digital Experiences 💻✨</em>
-</h3>
+# 👋 Hello, I'm Vipul!
+
+### 💻 Front-End & Full-Stack Developer | Tech Enthusiast | Innovator
+
+I specialize in creating modern, responsive, and dynamic web applications using **HTML**, **CSS**, **Bootstrap**, **Tailwind CSS**, **React**, **Express**, **Node.js**, and **Next.js**. Currently, I’m diving deeper into **AI technologies** and expanding my knowledge of **Node.js** to deliver cutting-edge solutions.
+
+---
+
+## 🛠️ Tech Stack
+- **Languages**: HTML, CSS, JavaScript
+- **Libraries & Frameworks**: Bootstrap, Tailwind CSS, React, Next.js, Express.js
+- **Tools**: Git, VS Code, Postman
+- **Currently Exploring**: AI Integration, Advanced Node.js
+
+---
 
 <!-- Profile Views Badge -->
 <p align="center">
