@@ -13,29 +13,6 @@ I specialize in creating modern, responsive, and dynamic web applications using 
 - **Currently Exploring**: AI Integration, Advanced Node.js
 
 ---
-
-<!-- Profile Views Badge -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vipulsangwan771&label=PROFILE+VIEWS&color=brightgreen&style=for-the-badge" alt="Profile Views" />
-</p>
-
-<!-- GitHub Trophies with modern style -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=vipulsangwan771&theme=onedark&row=1&column=6&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
-  </a>
-</p>
-
-<!-- Professional Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3A6AFF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+%7C+React+%26+Node.js+Specialist;Expert+in+Payment+Integration+(Stripe);Building+Scalable+%26+Secure+Web+Applications;Focused+on+UI%2FUX%2C+Performance%2C+%26+Innovation" alt="Typing Animation" />
-</p>
-
-
-
-
-
-
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p>
@@ -87,21 +64,6 @@ I specialize in creating modern, responsive, and dynamic web applications using 
     <img src="https://img.icons8.com/color/48/000000/stripe.png" alt="Stripe" width="40" height="40"/>
   </a>
 </p>
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vipulsangwan771&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vipulsangwan771&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipulsangwan771&" alt="GitHub Streak Stats" />
-</p>
-
 ---
 
 <h2 align="center">📫 Connect with Me</h2>
