@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Vipul!
 
-### 💻 Front-End & Full-Stack Developer | Tech Enthusiast | Innovator
+### 💻 Front-End & MERN-Stack Developer | Tech Enthusiast | Innovator
 
 I specialize in creating modern, responsive, and dynamic web applications using **HTML**, **CSS**, **Bootstrap**, **Tailwind CSS**, **React**, **Express**, **Node.js**, and **Next.js**. Currently, I’m diving deeper into **AI technologies** and expanding my knowledge of **Node.js** to deliver cutting-edge solutions.
 
