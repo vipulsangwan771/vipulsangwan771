@@ -10,7 +10,7 @@ I specialize in creating modern, responsive, and dynamic web applications using 
 - **Languages**: HTML, CSS, JavaScript
 - **Libraries & Frameworks**: Bootstrap, Tailwind CSS, React, Next.js, Express.js
 - **Tools**: Git, VS Code, Postman
-- **Currently Exploring**: AI Integration, Advanced Node.js
+- **Currently Exploring**: AI Integration(LangChain/LangGraph), Advanced Node.js
 
 ---
 <h2 align="center">👨‍💻 About Me</h2>
