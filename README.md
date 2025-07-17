@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Vipul!
+# 👋 Howdy, I'm Vipul!
 
 ### 💻 Full-Stack Developer | MERN Enthusiast | Creative Coder
 
