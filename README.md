@@ -56,6 +56,10 @@ Currently, I’m focused on enhancing my backend expertise with **advanced Node.
 ---
 
 ### 📸 **Instagram Scraper with LangChain & LangGraph**
+![React](https://img.shields.io/badge/Frontend-React-blue)
+![Tailwind](https://img.shields.io/badge/Styling-Tailwind_CSS-38b2ac)
+![LangChain](https://img.shields.io/badge/AI-LangChain-yellow)
+![LangGraph](https://img.shields.io/badge/AI-LLM_LangGraph-orange)
 - Developed a smart tool using **LangChain** and **LangGraph** to scrape Instagram profiles for analyzing the **most liked posts**, **recent uploads**, and **popular videos**.
 - **Key Highlights**:
   - Built with **React** and styled using **TailwindCSS** for modern and responsive UI.
@@ -65,6 +69,10 @@ Currently, I’m focused on enhancing my backend expertise with **advanced Node.
 ---
 
 ### 💬 **Real-Time Chat App (MERN + Socket.io)**
+![React](https://img.shields.io/badge/Frontend-React-blue)
+![Node.js](https://img.shields.io/badge/Backend-Node.js-green)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen)
+![Socket.io](https://img.shields.io/badge/Realtime-Socket.io-ff69b4)
 - Created a full-stack **chat application** with secure login and real-time messaging functionality.
 - **Key Highlights**:
   - Backend built on **Node.js**, **Express**, and **MongoDB** with **JWT-based authentication**.
@@ -74,6 +82,10 @@ Currently, I’m focused on enhancing my backend expertise with **advanced Node.
 ---
 
 ### ✅ **Real-Time ToDo App (MERN + Socket.io)**
+![React](https://img.shields.io/badge/Frontend-React-blue)
+![Node.js](https://img.shields.io/badge/Backend-Node.js-green)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen)
+![Socket.io](https://img.shields.io/badge/Realtime-Socket.io-ff69b4)
 - Designed a powerful **ToDo web application** featuring real-time collaboration and full CRUD operations.
 - **Key Highlights**:
   - Users can create, update, delete, and mark tasks in real-time.
