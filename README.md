@@ -33,9 +33,37 @@ I specialize in creating modern, responsive, and dynamic web applications using 
 ### 💼 **E-commerce Platform with Stripe Integration**
 - Built a full-fledged e-commerce application that allows users to explore products, manage their carts, and perform secure transactions via **Stripe**.
 - **Key Highlights**:
-  - Dynamic cart management with live updates on product quantities, price etc.
+  - Dynamic cart management with live updates on product quantities, price, etc.
   - Full integration with **Stripe API** for secure and fast payment processing.
   - Responsive UI powered by **React** and styled with **Bootstrap**, delivering a seamless shopping experience across all devices.
+
+---
+
+### 📸 **Instagram Scraper with LangChain & LangGraph**
+- Developed a smart tool using **LangChain** and **LangGraph** to scrape Instagram profiles for analyzing the **most liked posts**, **recent uploads**, and **popular videos**.
+- **Key Highlights**:
+  - Built with **React** and styled using **TailwindCSS** for modern and responsive UI.
+  - Intelligent parsing and filtering of scraped content using **LLM-powered prompts**.
+  - Displays clean, categorized insights from public profiles for analysis or inspiration.
+
+---
+
+### 💬 **Real-Time Chat App (MERN + Socket.io)**
+- Created a full-stack **chat application** with secure login and real-time messaging functionality.
+- **Key Highlights**:
+  - Backend built on **Node.js**, **Express**, and **MongoDB** with **JWT-based authentication**.
+  - Instant messaging using **Socket.io**, with efficient room and user management.
+  - Modern chat UI with **React**, including online user status, typing indicators, and message timestamps.
+
+---
+
+### ✅ **Real-Time ToDo App (MERN + Socket.io)**
+- Designed a powerful **ToDo web application** featuring real-time collaboration and full CRUD operations.
+- **Key Highlights**:
+  - Users can create, update, delete, and mark tasks in real-time.
+  - Built with **React**, **Node.js**, **Express**, and **MongoDB**, ensuring data persistence and performance.
+  - **WebSocket integration** for live task updates across connected clients.
+
 
 ---
 
