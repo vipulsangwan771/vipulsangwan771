@@ -1,16 +1,20 @@
 # 👋 Hello, I'm Vipul!
 
-### 💻 Full-Stack & MERN-Stack Developer | Tech Enthusiast | Innovator
+### 💻 Full-Stack Developer | MERN Enthusiast | Creative Coder
 
-I specialize in creating modern, responsive, and dynamic web applications using **HTML**, **CSS**, **Bootstrap**, **Tailwind CSS**, **React**, **Express**, **Node.js**, and **Next.js**. Currently, I’m diving deeper into **AI technologies** and expanding my knowledge of **Node.js** to deliver cutting-edge solutions.
+I specialize in building modern, responsive, and dynamic web applications using technologies like **React**, **Node.js**, and **MongoDB**. I'm passionate about writing clean code, crafting engaging UI/UX, and diving into the world of **AI-powered web development**.
+
+Currently, I’m focused on enhancing my backend expertise with **advanced Node.js** and exploring the integration of **AI technologies** such as **LangChain** and **LangGraph** into real-world applications.
 
 ---
 
 ## 🛠️ Tech Stack
 - **Languages**: HTML, CSS, JavaScript
-- **Libraries & Frameworks**: Bootstrap, Tailwind CSS, React, Next.js, Express.js
-- **Tools**: Git, VS Code, Postman
-- **Currently Exploring**: AI Integration(LangChain/LangGraph), Advanced Node.js
+- **Libraries & Frameworks**: Bootstrap, Tailwind CSS, React, Next.js, Express.js, Socket.io
+- **Databases**: MongoDB
+- **Tools**: Git, Postman, VS Code, Render, Netlify
+- **Currently Exploring**: AI integration with **LangChain**, **LangGraph**, and advanced **Node.js** patterns
+
 
 ---
 <h2 align="center">👨‍💻 About Me</h2>
@@ -28,9 +32,21 @@ I specialize in creating modern, responsive, and dynamic web applications using 
 
 ---
 
+<h2 align="center">🔗 Live Preview of My Projects</h2>
+
+<p align="center">
+  🌐 <a href="https://postf-front.onrender.com/" target="_blank"><strong>Click here to explore live projects</strong></a>
+</p>
+
+---
+
 <h2 align="center">🚀 My Projects</h2>
 
 ### 💼 **E-commerce Platform with Stripe Integration**
+![React](https://img.shields.io/badge/Frontend-React-blue)
+![Node.js](https://img.shields.io/badge/Backend-Node.js-green)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen)
+![Stripe](https://img.shields.io/badge/Payments-Stripe-blueviolet)
 - Built a full-fledged e-commerce application that allows users to explore products, manage their carts, and perform secure transactions via **Stripe**.
 - **Key Highlights**:
   - Dynamic cart management with live updates on product quantities, price, etc.
