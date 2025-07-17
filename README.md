@@ -35,7 +35,7 @@ Currently, I’m focused on enhancing my backend expertise with **advanced Node.
 <h2 align="center">🔗 Live Preview of My Projects</h2>
 
 <p align="center">
-  🌐 <a href="https://postf-front.onrender.com/" target="_blank"><strong>Click here to explore live projects</strong></a>
+  🌐 <a href="https://postf-front.onrender.com/projects" target="_blank"><strong>Click here to explore live projects</strong></a>
 </p>
 
 ---
